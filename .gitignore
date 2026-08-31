@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+.env
+*.log
+# The INCLUDE checkpoint is intentionally versioned for reproducible model provenance.
