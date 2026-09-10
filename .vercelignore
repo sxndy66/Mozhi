@@ -1,0 +1,6 @@
+# Source/build-time artifacts not required by the browser deployment
+model-source/
+scripts/
+.github/
+README.md
+*.pth
